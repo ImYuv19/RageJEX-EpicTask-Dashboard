@@ -8,7 +8,7 @@ A modern project and task management dashboard built with **React.js**, **Vite**
 
 🌐 **Live Application:** https://your-live-link.vercel.app
 
-📂 **GitHub Repository:** https://github.com/yourusername/repository-name
+📂 **GitHub Repository:** https://github.com/ImYuv19/RageJEX-EpicTask-Dashboard/tree/main
 
 ---
 
